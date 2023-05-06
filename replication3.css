@@ -1,0 +1,45 @@
+
+body,html{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:#5ac274;
+}
+h1{
+    
+    color:white;
+    font-size: 50px;
+    width: 90%;
+    margin:60px;
+}
+p{
+
+    margin: 60px;
+    padding-left: 60%;
+    color:aliceblue;
+    font-size: 20px;
+    
+}
+.parent{
+    width:100%;
+    height:100%;
+    display: contents;
+}
+
+.son.left{
+    float: left;
+    width: 60%;
+}
+
+.son.right{
+    width: auto;
+    float: right;
+}
+
+.daughter{
+    width:100%;
+}
+img{
+    width:90%;
+    display: block;
+    margin: auto;
+    
+}

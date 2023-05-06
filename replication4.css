@@ -1,0 +1,48 @@
+
+.container{
+    background-color: rgba(255, 251, 7, 0.815);
+    height: auto;
+    border: 1px solid black;
+    border-style:ridge;
+    width: auto;
+    margin: auto;
+}
+.container11{
+    height: 100px;
+    width:auto;
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+h1{
+    height: 100px;
+    width: auto;
+}
+.container2{
+    height: 400px;
+    width: auto;
+}
+.no1{
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.no2{
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.no3{
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    height: 250px;
+    width: 275px;
+}
